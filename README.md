@@ -41,7 +41,7 @@ Comprehensive evaluations on the BraTS2019 and BraTS2020 datasets demonstrate th
 <p align="center">
     <img src="imgs/result2020.png"/> <br />
     <em> 
-    Figure 2: Qualitative Results.
+    Figure 3: Qualitative Results.
     </em>
 </p>
 
